@@ -1,0 +1,21 @@
+{
+  "name": "curso-design-responsivo",
+  "homepage": "https://github.com/w-bonfim/curso-design-responsivo",
+  "authors": [
+    "Wellington Bonfim <wellington.bonfim@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
